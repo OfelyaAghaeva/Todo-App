@@ -1,3 +1,3 @@
 # Todo-app
 
-## link to the website [here](file:///C:/Users/Asus/OneDrive/Masa%C3%BCst%C3%BC/Todo-app-main/index.html
+## link to the website [here]http://127.0.0.1:5500/index.html
